@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Takuro Terui🐶
 #### How about you become a demon too?
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakuroTerui&show_icons=true&theme=radical)
 
