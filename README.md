@@ -68,7 +68,7 @@
   <li>JDLA Deep Learning for ENGINEER 2022#2</li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/77182341/163163754-f12972f1-68bc-439b-9896-a5f26634d215.png" width="300">
+<img src="https://user-images.githubusercontent.com/77182341/163163754-f12972f1-68bc-439b-9896-a5f26634d215.png">
 
 <img src="https://user-images.githubusercontent.com/77182341/190833091-c52e8fa6-c3ed-49cd-b0c2-b567681a9fda.png" width="300">
 
