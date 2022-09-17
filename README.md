@@ -65,10 +65,12 @@
 <ul>
   <li>Japan Statistical Society Certificate 2nd</li>
   <li>AWS Certified Solutions Architect – Associate</li>
+  <li>JDLA Deep Learning for ENGINEER 2022#2</li>
 </ul>
 
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/77182341/163163754-f12972f1-68bc-439b-9896-a5f26634d215.png)
 
+![engineer2022#2_regular](https://user-images.githubusercontent.com/77182341/190833041-f212b7d1-3f56-4dd7-8faa-e4dcfb412d2b.png)
 
 
 <!--
