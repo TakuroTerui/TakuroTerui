@@ -65,8 +65,8 @@
 <ul>
   <li>Japan Statistical Society Certificate 2nd</li>
   <li>AWS Certified Solutions Architect – Associate</li>
-
 </ul>
+
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/77182341/163163754-f12972f1-68bc-439b-9896-a5f26634d215.png)
 
 
