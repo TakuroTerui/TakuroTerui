@@ -66,6 +66,7 @@
   <li>Japan Statistical Society Certificate 2nd</li>
   <li>AWS Certified Solutions Architect – Associate</li>
   <li>JDLA Deep Learning for ENGINEER 2022#2</li>
+  <li>Fundamental Information Technology Engineer Examination</li>
 </ul>
 
 
